@@ -1,0 +1,6 @@
+@PropertyAnalyzer_HostAddress = http://localhost:5185
+
+GET {{PropertyAnalyzer_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
